@@ -68,3 +68,35 @@ nav{
     color: #0a0650;
     border: 1px solid #0a0650;
 }
+
+.navIcons > button{
+    background-color: #0a0650;
+    color: #fff;
+    padding: .3rem .5rem;
+    border-radius: 20px;
+    border: none;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.navIcons > button:last-child{
+    background-color: transparent;
+    color: #0a0650;
+    border: 1px solid #0a0650;
+
+}
+
+.secOne{
+    padding-block: 2rem;
+
+}
+.bannerWrapper{
+    background-color: red;
+    border: 2px solid;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
