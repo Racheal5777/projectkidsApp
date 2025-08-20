@@ -1009,7 +1009,7 @@ input, textarea {
     }
     .gen{
         height: 120vh;
-        width: 500px;
+        /* width: 500px; */
     }
     
     .atags{
@@ -1018,6 +1018,7 @@ input, textarea {
         align-items: center;
         justify-content: center;
         text-align: center;
+        position: static;
     }
     .quick > a .phones{
         width: 25px;
