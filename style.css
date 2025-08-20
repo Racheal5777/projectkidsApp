@@ -1031,6 +1031,10 @@ input, textarea {
         align-items: start;
 
     }
+    .tagss{
+        max-width: 350px;
+    }
+
     .form-row{
         gap: 12px;
         margin-bottom: 12px;
